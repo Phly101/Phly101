@@ -15,3 +15,25 @@ I have a strong interest in **UI/UX design** and enjoy building clean, intuitive
 ### 🛠️ Tech Stack
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /> </p>
+
+
+### 🌱 Currently Learning
+- Clean Architecture (Mobile & Flutter-focused)
+- Kotlin (Android Development)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PHLY101&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHLY101&layout=compact&theme=transparent&hide_border=true" height="170" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=PHLY101&theme=transparent&hide_border=true" height="170" />
+</p>
