@@ -26,14 +26,7 @@ I have a strong interest in **UI/UX design** and enjoy building clean, intuitive
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phly101&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phly101&layout=compact&theme=transparent&hide_border=true" height="170" />
+  ![Phly101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phly101&show_icons=true&theme=gurvbox)
+  ![Phly101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phly101&show_icons=true&theme=gruvbox)
 </p>
 
----
-
-### 🔥 GitHub Streak
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Phly101&theme=transparent&hide_border=true" height="170" />
-</p>
