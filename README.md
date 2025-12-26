@@ -25,8 +25,8 @@ I have a strong interest in **UI/UX design** and enjoy building clean, intuitive
 
 ### 📊 GitHub Stats
 
-<p align="left">
+
   ![Phly101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phly101&show_icons=true&theme=gurvbox)
   ![Phly101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phly101&show_icons=true&theme=gruvbox)
-</p>
+
 
