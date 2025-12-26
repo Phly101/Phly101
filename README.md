@@ -18,14 +18,16 @@ I have a strong interest in **UI/UX design** and enjoy building clean, intuitive
 
 
 ### 🌱 Currently Learning
-- Clean Architecture (Mobile & Flutter-focused)
-- Kotlin (Android Development)
+- Clean Architecture 
+- Kotlin
+- Linux
+   
 
 ---
 
 ### 📊 GitHub Stats
 
-  ![Phly101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phly101&show_icons=true&theme=gurvbox)
+  ![Phly101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phly101&show_icons=true&theme=gruvbox)
 
 
 
