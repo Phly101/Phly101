@@ -1,4 +1,4 @@
-## 🦅 PHLY101
+# 🦅 PHLY101
 
 ### 👋 About Me
 
@@ -26,8 +26,8 @@ I have a strong interest in **UI/UX design** and enjoy building clean, intuitive
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PHLY101&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHLY101&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Phly101&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phly101&layout=compact&theme=transparent&hide_border=true" height="170" />
 </p>
 
 ---
@@ -35,5 +35,5 @@ I have a strong interest in **UI/UX design** and enjoy building clean, intuitive
 ### 🔥 GitHub Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=PHLY101&theme=transparent&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Phly101&theme=transparent&hide_border=true" height="170" />
 </p>
