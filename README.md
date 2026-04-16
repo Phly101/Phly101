@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Basel El Rafei 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=007AFF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Computer+Science+Student;Team+Lead;Passionated+about+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=007AFF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Computer+Science+Student;Team+Lead;Future Rustacean" alt="Typing SVG" />
 </p>
 
 ---
