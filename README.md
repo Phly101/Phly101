@@ -1,43 +1,203 @@
-<h1 align="center">Hi, I'm Basel El Rafei 👋</h1>
+<h1 align="center">Hi 👋, I'm Basel El Rafei</h1>
+
+<h3 align="center">
+Flutter Developer • Software Engineer • Computer Science Graduate
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=007AFF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Computer+Science+Graduate;Software+Engineer;Future+Rustacean" alt="Typing SVG" />
+Building scalable Flutter applications with Clean Architecture, BLoC, and modern software engineering principles.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=3B82F6&center=true&vCenter=true&width=550&lines=Flutter+Developer;Software+Engineer;Clean+Architecture+Enthusiast;Building+Production-Ready+Applications;Future+Rustacean" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/Phly101">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/basel-el-rafei">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:basel6889@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 🚀 About Me
-I’m a **Computer Science Graduate** and **Software Engineer specializing in Mobile Development Using Flutter** with a focus on building scalable, high-performance mobile applications. 
+# 👨‍💻 About Me
 
- Whether I’m navigating the nuances of **Clean Architecture** or prototyping design systems in **Figma**, I am driven by the goal of delivering robust, maintainable code.
+I'm a **Computer Science Graduate** and **Flutter Developer** passionate about building scalable, maintainable mobile applications that provide polished user experiences.
 
-* **Core Competencies:** Flutter/Dart, Clean Architecture, API Integration, Responsive UI, and Mobile UI/UX Design.
-* **Philosophy:** Build things that last—prioritizing clean code and intuitive architecture over quick fixes.
-
----
-
-### 🛠️ Technical Toolkit
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Mobile Dev** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
-| **Backend/Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) |
-| **Languages** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Design/Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| **Workflow** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+- 📱 Specialized in **Flutter & Dart**
+- 🏗️ Strong advocate of **Clean Architecture** and **BLoC**
+- 🔌 Experienced with **REST APIs**, **Firebase**, and **Dependency Injection**
+- 🎨 Enjoy transforming Figma designs into responsive mobile applications
+- 🚀 Always striving to write clean, reusable, and production-ready code
+- 🌱 Currently learning **Spring Boot**, **Linux**, and preparing to dive into **Rust**
 
 ---
 
-### 📈 Currently Leveling Up
-* **Environment:** Migrating to **Linux** to gain finer control over my development workflow.
+# 🚀 Featured Project
+
+## 📚 SkillBit (Graduation Project)
+
+A modern e-learning mobile platform developed with Flutter that combines learning, quizzes, contests, achievements, and community interaction into one seamless experience.
+
+### Highlights
+
+- 🏛️ Clean Architecture
+- ⚡ BLoC State Management
+- 🌐 Dio API Integration
+- 🔥 Firebase Services
+- 🎨 Responsive UI
+- ✨ Custom Animations
+- 📦 Dependency Injection
+- 🌙 Dark & Light Themes
+- 📈 Optimized Performance
+
+> **Status:** 🚧 Currently under active development.
 
 ---
 
-### 📊 GitHub Activity
-![Phly101's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phly101)
+# 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
+</p>
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=dart,java,kotlin,cpp,c,python,javascript"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring"/>
+</p>
+
+### 🎨 Design & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,androidstudio,idea,vscode,git,postman"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+### 🐧 Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux"/>
+</p>
 
 ---
 
-### 📬 Let's Connect
-I’m always open to discussing mobile architecture, Flutter best practices, or potential collaborations.
-* **LinkedIn:** [linkedin.com/in/basel-el-rafei](https://www.linkedin.com/in/basel-el-rafei)
-* **Email:** [basel6889@gmail.com](mailto:basel6889@gmail.com)
+# ⚡ Core Competencies
+
+<table>
+<tr>
+<td>
+
+- Flutter Development
+- Clean Architecture
+- BLoC Pattern
+- REST APIs
+- Dio Networking
+
+</td>
+
+<td>
+
+- Firebase
+- Dependency Injection
+- Responsive UI
+- Mobile UI/UX
+- Git Workflow
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Phly101&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phly101&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Phly101&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phly101&theme=github_dark"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- 🐧 Linux Development Environment
+- ☕ Spring Boot
+- 🦀 Rust Programming Language
+- 🧠 Software Design Patterns
+- 📱 Advanced Flutter Performance Optimization
+
+---
+
+# ☕ Beyond Coding
+
+- 🎨 I enjoy designing clean and modern mobile interfaces.
+- 📚 I love learning new technologies and software architecture.
+- 🦀 Future Rustacean.
+- 🌍 Open to collaboration on exciting Flutter projects.
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:basel6889@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/basel-el-rafei">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Phly101">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"First, solve the problem. Then, write the code."</i>
+
+<b>— John Johnson</b>
+
+</p>
