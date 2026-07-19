@@ -32,12 +32,12 @@ Building scalable Flutter applications with Clean Architecture, BLoC, and modern
 
 I'm a **Computer Science Graduate** and **Flutter Developer** passionate about building scalable, maintainable mobile applications that provide polished user experiences.
 
-- 📱 Specialized in **Flutter & Dart**
-- 🏗️ Strong advocate of **Clean Architecture** and **BLoC**
-- 🔌 Experienced with **REST APIs**, **Firebase**, and **Dependency Injection**
-- 🎨 Enjoy transforming Figma designs into responsive mobile applications
-- 🚀 Always striving to write clean, reusable, and production-ready code
-- 🌱 Currently learning **Spring Boot**, **Linux**, and preparing to dive into **Rust**
+-  Specialized in **Flutter & Dart**
+-  Strong advocate of **Clean Architecture** and **BLoC**
+-  Experienced with **REST APIs**, **Firebase**, and **Dependency Injection**
+-  Enjoy transforming Figma designs into responsive mobile applications
+-  Always striving to write clean, reusable, and production-ready code
+-  Currently learning **Spring Boot**, **Linux**, and preparing to dive into **Rust**
 
 ---
 
@@ -52,11 +52,9 @@ A modern e-learning mobile platform developed with Flutter that combines learnin
 - 🏛️ Clean Architecture
 - ⚡ BLoC State Management
 - 🌐 Dio API Integration
-- 🔥 Firebase Services
+- 🔥 Backend Services
 - 🎨 Responsive UI
-- ✨ Custom Animations
 - 📦 Dependency Injection
-- 🌙 Dark & Light Themes
 - 📈 Optimized Performance
 
 > **Status:** 🚧 Currently under active development.
@@ -127,20 +125,15 @@ A modern e-learning mobile platform developed with Flutter that combines learnin
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Phly101&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phly101&layout=compact&theme=transparent&hide_border=true"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Phly101&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Phly101&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Phly101&theme=transparent&hide_border=true"/>
-
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Phly101&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
