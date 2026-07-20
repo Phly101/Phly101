@@ -28,7 +28,7 @@ Building scalable Flutter applications with Clean Architecture, BLoC, and modern
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 I'm a **Computer Science Graduate** and **Flutter Developer** passionate about building scalable, maintainable mobile applications that provide polished user experiences.
 
@@ -41,25 +41,6 @@ I'm a **Computer Science Graduate** and **Flutter Developer** passionate about b
 
 ---
 
-# 🚀 Featured Project
-
-## 📚 SkillBit (Graduation Project)
-
-A modern e-learning mobile platform developed with Flutter that combines learning, quizzes, contests, achievements, and community interaction into one seamless experience.
-
-### Highlights
-
-- 🏛️ Clean Architecture
-- ⚡ BLoC State Management
-- 🌐 Dio API Integration
-- 🔥 Backend Services
-- 🎨 Responsive UI
-- 📦 Dependency Injection
-- 📈 Optimized Performance
-
-> **Status:** 🚧 Currently under active development.
-
----
 
 # 🛠️ Tech Stack
 
@@ -138,32 +119,26 @@ A modern e-learning mobile platform developed with Flutter that combines learnin
 
 ---
 
-# 🏆 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phly101&theme=github_dark"/>
-
-</p>
+# 📊 GitHub Activity
+![Phly101's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phly101)
 
 ---
 
 # 🌱 Currently Learning
 
-- 🐧 Linux Development Environment
-- ☕ Spring Boot
-- 🦀 Rust Programming Language
-- 🧠 Software Design Patterns
-- 📱 Advanced Flutter Performance Optimization
+-  Linux Development Environment
+-  Spring Boot
+-  Rust Programming Language
+-  Software Design Patterns
+-  Advanced Flutter Performance Optimization
 
 ---
 
 # ☕ Beyond Coding
 
-- 🎨 I enjoy designing clean and modern mobile interfaces.
-- 📚 I love learning new technologies and software architecture.
-- 🦀 Future Rustacean.
-- 🌍 Open to collaboration on exciting Flutter projects.
+-  I enjoy designing clean and modern mobile interfaces.
+-  I love learning new technologies and software architecture.
+-  Open to collaboration on exciting Flutter projects.
 
 ---
 
