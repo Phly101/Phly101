@@ -75,6 +75,13 @@ I'm a **Computer Science Graduate** and **Flutter Developer** passionate about b
 <img src="https://skillicons.dev/icons?i=linux"/>
 </p>
 
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180"/>
+  <img src="./profile/top-langs.svg" height="180"/>
+</p>
+               
 ---
 
 # ⚡ Core Competencies
