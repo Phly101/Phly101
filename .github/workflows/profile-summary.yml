@@ -9,12 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate GitHub Profile Summary Cards
-
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@v4
+
+      # Add this step to configure git user identity
+      - name: Configure Git User
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
