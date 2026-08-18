@@ -56,10 +56,10 @@ I'm a **Computer Science Graduate** and **Flutter Developer** passionate about b
 <img src="https://skillicons.dev/icons?i=dart,java,kotlin,cpp,c,python,javascript"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=spring,docker,mongodb,postgres"/>
 </p>
 
 ### 🎨 Design & Tools
@@ -83,21 +83,21 @@ I'm a **Computer Science Graduate** and **Flutter Developer** passionate about b
 <tr>
 <td>
 
-- Flutter Development
-- Clean Architecture
-- BLoC Pattern
-- REST APIs
-- Dio Networking
+* Flutter Development
+* Clean Architecture
+* BLoC Pattern
+* REST APIs
+* Dio Networking
 
 </td>
 
 <td>
 
-- Firebase
-- Dependency Injection
-- Responsive UI
-- Mobile UI/UX
-- Git Workflow
+* Firebase
+* Dependency Injection
+* Responsive UI
+* Mobile UI/UX
+* Git Workflow
 
 </td>
 
@@ -106,21 +106,7 @@ I'm a **Computer Science Graduate** and **Flutter Developer** passionate about b
 
 ---
 
-## 📈 GitHub Statistics
 
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Phly101&show_icons=true&theme=github_dark&hide_border=true"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Phly101&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Phly101&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-# 📊 GitHub Activity
-![Phly101's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Phly101)
 
 ---
 
