@@ -78,8 +78,13 @@ I'm a **Computer Science Graduate** and **Flutter Developer** passionate about b
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180"/>
-  <img src="./profile/top-langs.svg" height="180"/>
+  <img src="./profile-summary-card-output/discord_old_blurple/3-stats.svg" height="180"/>
+  <img src="./profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg" height="180"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg" height="180"/>
+  <img src="./profile-summary-card-output/discord_old_blurple/4-productive-time.svg" height="180"/>
 </p>
                
 ---
