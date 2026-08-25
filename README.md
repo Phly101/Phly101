@@ -125,10 +125,9 @@ I'm a **Computer Science Graduate** and **Flutter Developer** passionate about b
 # 🌱 Currently Learning
 
 -  Linux Development Environment
--  Spring Boot
--  Rust Programming Language
--  Software Design Patterns
--  Advanced Flutter Performance Optimization
+-  Spring Boot/backend development
+-  Containerization using docker
+-  System Desgin
 
 ---
 
