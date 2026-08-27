@@ -9,7 +9,7 @@ Building scalable Flutter applications with Clean Architecture, BLoC, and modern
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=3B82F6&center=true&vCenter=true&width=550&lines=Flutter+Developer;Software+Engineer;Clean+Architecture+Enthusiast;Building+Production-Ready+Applications;Future+Rustacean" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=3B82F6&center=true&vCenter=true&width=550&lines=Flutter+Developer;Software+Engineer;Clean+Architecture+Enthusiast;" alt="Typing SVG"/>
 </p>
 
 <p align="center">
