@@ -9,12 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate GitHub Profile Summary Cards
+
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
 
-      # Add this step to configure git user identity
       - name: Configure Git User
         run: |
           git config --global user.name "github-actions[bot]"
@@ -22,7 +23,7 @@ jobs:
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
